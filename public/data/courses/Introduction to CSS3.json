@@ -1,0 +1,15 @@
+[
+{"name":"Getting Started with Simple Styling",
+"time":"4",
+"description":"Welcome to Introduction to CSS3! In this course you will learn how to style your pages by taking advantage of the power of CSS3. We will focus on both proper syntax (how to write your styling rules) and the importance of accessibility design (making sure that your style enhances your site, not make it harder to navigate). It is so important that you jump in ready to make mistakes and typos in this course. The only way you will really understand the material is to practice typing it in on your own as often as possible."},
+{"name":"Advanced Styling",
+"time":"4",
+"description":"Colors and fonts are just the start to styling your page. The nice thing about starting with these properties is that they are usually very straightforward to implement. You pick a color and boom - instant, expected results. This week we move on to new properties that tend to require a little bit of tweaking to get the desired results. In particular we will talk about the Box Model, background images, opacity, float, columns, visibility, and designing for different browsers."},
+{"name":"Psuedo-classes, Pseudo-elements, Transitions, and Positioning",
+"time":"1",
+"description":"Have you ever noticed on a web page that some links are blue and others are purple, depending upon if you have clicked on the links? How is it possible to style some anchor tags and not others? This week you will learn how to style pseudo-classes (e.g. a link that has been visiting, an element that has the mouse hovering over it) and pseudo-elements (e.g. the first-letter of a heading, the first line of a paragraph). These elements are not difficult to style, but do require careful coding. It is also the first step to adding simple animation to your site. We end this week with the subject of positioning -- how to get elements to stick to a certain part of your page. Think about annoying pop-up ads. How do the programmers get them to stay RIGHT IN THE MIDDLE OF THE SCREEN despite the fact that you keep trying to scroll them away"},
+{"name":"Putting It All Together",
+"time":"2",
+"description":"This week I am going to do some code review. I will show you how I used pseudo-classes and pseudo-elements to style a table. Then I give you a demonstration of three different navigation bars that utilize different styling options. We will want to step back and talk about how these different options may affect the accessibility of our site. The final step to completing this course is the completion of the peer-graded project. You will have the chance to demonstrate the ability to follow styling guidelines while still putting your own personal touch on the project. Just remember, you need to validate your work for proper syntax and accessibility."}
+
+]

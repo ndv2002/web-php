@@ -1,0 +1,12 @@
+[
+    {"name":"Introduction","time": "3","description":"This module introduces a powerful process for solving any programming problem—the Seven Steps. You will learn how to approach a programming problem methodically, so you can formulate an algorithm that is specific and correct. You will work through examples with sequences of numbers and graphical patterns to develop the skill of algorithm development."},
+	{"name":"Reading Code",
+	"time":"7",
+	"description":"In this module, you will learn to read code—this means you will be able to execute a piece of code by hand, and clearly illustrate what each statement does and what the state of the program is. Understanding how to read code is the only way to be sure you can write correct code. By the end of this module, you will be able to read and understand code with functions, conditional statements, iteration, and other fundamental techniques."},
+	{"name":"Types",
+	"time":"6",
+	"description":"Everything is a number to a computer, but types determine the size and interpretation of numbers. In this module you will learn about types beyond integers, both their conceptual representations, and their hardware representations in binary. You will learn basic data types, 'non-number' types, and complex, custom types, as well as some important caveats, so you will avoid type-related programming mistakes."},
+	{"name":"Project",
+	"time":"1",
+	"description":"You have learned a lot about designing algorithms and the programming concepts that will help you implement them. For this project, you will develop and test your own algorithm for sorting data. This module will reinforce the importance of being specific when you write an algorithm and provide an opportunity for you to do so yourself, for a very common computational task: sorting."}
+]
